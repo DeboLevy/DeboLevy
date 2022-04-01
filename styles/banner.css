@@ -1,0 +1,8 @@
+.banner { 
+	width: 90vw;
+	margin: 0%;
+	padding: 170px 100px;
+ 	background-image: url('../images/banner.jpg');
+ 	background-position: center;
+ }
+
